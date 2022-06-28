@@ -1,0 +1,88 @@
+html, body {
+  height: 100%;
+  width: 100%;
+} html,  body { 
+        
+  height: 100%;
+  width: 100%;
+} 
+
+h1{ 
+    color: red; 
+}
+
+p { 
+    color: #420000; 
+}
+
+a { text-decoration: none ;
+    color: #e1d9e8;
+}
+
+form {
+    color: red;
+} 
+
+body {
+      background-image: linear-gradient(to bottom right, #f2d3cf, #d3e0fd);
+      background-position: center;
+      background-repeat: repeat-y;
+      background-size: cover;
+} 
+h1 {text-align: center;} 
+
+h1 {
+  font-size: 80px;
+} 
+
+
+#season13Paragraph {
+    border: 1px solid #420000;
+    width: 700px;
+    font-size: 20px;
+    color: #420000;
+}
+
+#season13Paragraph p {
+    color: #420000;
+}
+
+nav {
+    text-align: center;
+    font-size: 35px;
+} 
+
+ul li {
+    list-style-type: none;
+/*     border: 1px solid white; */
+    display: inline;
+    margin: 0px 30px 0px 30px; /* TOP RIGHT BOTTOM LEFT */
+    color: #420000;
+}
+
+ul {
+    background-color: black;
+    padding: 10px;
+}
+
+li a:hover { 
+    background-color: red;
+    padding: 10px;
+}
+
+nav a {
+    padding: 10px;
+}
+
+.header img {
+  width: 100px;
+  height: 60px;
+  background:none;
+}
+
+.header h1 {
+  position: center;
+  top: 18px;
+  left: 10px;
+}
+
