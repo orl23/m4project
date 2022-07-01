@@ -80,3 +80,11 @@ nav a {
   left: 10px;
 }
 
+#newCosmeticParagraph{ 
+    font-size: 30px;
+    border: 1px solid#420000;
+    width: 450px; ; 
+    float: right;
+    margin-right: 30px;
+    padding: 30px;
+ }
