@@ -22,7 +22,7 @@ body {
       background-repeat: repeat-y;
       background-size: cover;
 } 
-
+/* background color gradient added*/
 h1 { 
     text-align: center;
     font-size: 80px;
@@ -80,11 +80,21 @@ nav a {
   left: 10px;
 }
 
-#newCosmeticParagraph{ 
+#newCosmeticParagraph { 
     font-size: 30px;
     border: 1px solid#420000;
     width: 450px; ; 
     float: right;
     margin-right: 30px;
     padding: 30px;
- }
+}
+/* moved text next to an image*/
+
+table { 
+    width: 850px 
+
+}
+
+table,th, td { 
+  border: 1px solid #000 
+} 
